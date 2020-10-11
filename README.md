@@ -1,0 +1,2 @@
+# UnityGitIgnore
+Only for gitignore
