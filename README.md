@@ -1,2 +1,2 @@
 # UnityGitIgnore
-Only for gitignore
+Why it´s here?
